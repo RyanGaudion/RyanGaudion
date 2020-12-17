@@ -20,20 +20,20 @@
 
 ### Languages and Technologies:
 
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][esp32playlist]
-[<img align="left" alt="Xamarin" width="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />][esp32playlist]
-[<img align="left" alt="ASP.net" width="26px" src="https://lh3.googleusercontent.com/proxy/f2oJmYAG7STHycsi7dLrRxQclgvCXL9aGT3D3PAiqsx-4UlRgxhLpxSgh2HjrDHWvNi9j1ann4SoKHVYuJLG-5FIRDckFl_6hcyv0gKjSQP6" />][esp32playlist]
-[<img align="left" alt="Arduino" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][esp32playlist]
-[<img align="left" alt="RaspberryPi" width="26px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" />][raspberrypiplaylist]
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][esp32playlist]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][esp32playlist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][esp32playlist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][esp32playlist]
-[<img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][esp32playlist]
-[<img align="left" alt="Visual Studio" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />][esp32playlist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][esp32playlist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][esp32playlist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][esp32playlist]
+[<img align="left" alt="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][esp32playlist]
+[<img align="left" alt="Xamarin" height="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />][esp32playlist]
+[<img align="left" alt="ASP.net" height="26px" src="https://lh3.googleusercontent.com/proxy/f2oJmYAG7STHycsi7dLrRxQclgvCXL9aGT3D3PAiqsx-4UlRgxhLpxSgh2HjrDHWvNi9j1ann4SoKHVYuJLG-5FIRDckFl_6hcyv0gKjSQP6" />][esp32playlist]
+[<img align="left" alt="Arduino" height="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][esp32playlist]
+[<img align="left" alt="RaspberryPi" height="26px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" />][raspberrypiplaylist]
+[<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][esp32playlist]
+[<img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][esp32playlist]
+[<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][esp32playlist]
+[<img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][esp32playlist]
+[<img align="left" alt="Postgres" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][esp32playlist]
+[<img align="left" alt="Visual Studio" height="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />][esp32playlist]
+[<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][esp32playlist]
+[<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][esp32playlist]
+[<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][esp32playlist]
 
 <br />
 <br />
