@@ -45,6 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ESP32 - Getting Started #Shorts](https://www.youtube.com/watch?v=Fd4UP3tbyZc)
+- [ESP32 Getting Started | Setting up the Arduino IDE + Flashing LED Script | Ep 0 - Introduction](https://www.youtube.com/watch?v=Z4mN9u93sWA)
+- [Raspberry Pi Tutorial Part 5 - Pi Hole Setup - Block all Ads on your Network](https://www.youtube.com/watch?v=24bzwtsEbCg)
+- [Raspberry Pi Tutorial Part 4 - VNC Connect -  Access Your Raspberry Pi Display Remotely](https://www.youtube.com/watch?v=gCbGmAFqLoU)
+- [3DQF PLA Filament Review - 3D Printing Baby Groot](https://www.youtube.com/watch?v=vhVBqg9NwPc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -54,6 +59,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Tutorial Part 4 – VNC Connect – Accessing your Pi Remotely from anywhere in the world](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-4-vnc-connect/)
+- [Raspberry Pi Tutorial Part 3 – LAMP Server – Installing MySQL Server + PHPMyAdmin](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-3-lamp-server/)
+- [Raspberry Pi Tutorial Part 2 – Web Server – Installing Apache WebServer + PHP + Setting up SFTP](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-2-web-server/)
+- [3D Printer Error – Prints Reversed and mirrored](https://www.everybitelectronics.co.uk/blog/3d-printer-error-prints-reversed/)
+- [Raspberry Pi Tutorial Part 1 – Headless Setup – Installing Raspbian and Enabling SSH](https://www.everybitelectronics.co.uk/blog/raspberry-pi-part-1-headless-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://everybitelectronics.co.uk/blog)
