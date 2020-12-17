@@ -7,8 +7,6 @@
 - 💻 I've just launched my online Store & Blog: [Everybit Electronics][website]!
 - 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
 - 🌱 I’m currently studying a degree in "Digital & Technical Solutions"
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 
 ### Connect with me:
