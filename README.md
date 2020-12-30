@@ -22,7 +22,7 @@
 
 [<img align="left" alt="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][esp32playlist]
 [<img align="left" alt="Xamarin" height="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />][esp32playlist]
-[<img align="left" alt="ASP.net" height="26px" src="https://lh3.googleusercontent.com/proxy/f2oJmYAG7STHycsi7dLrRxQclgvCXL9aGT3D3PAiqsx-4UlRgxhLpxSgh2HjrDHWvNi9j1ann4SoKHVYuJLG-5FIRDckFl_6hcyv0gKjSQP6" />][esp32playlist]
+[<img align="left" alt="dot net core" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][esp32playlist]
 [<img align="left" alt="Arduino" height="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][esp32playlist]
 [<img align="left" alt="RaspberryPi" height="26px" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" />][raspberrypiplaylist]
 [<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][esp32playlist]
