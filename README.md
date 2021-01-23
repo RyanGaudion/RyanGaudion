@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Raspberry Pi Pico First Impressions: Should you Buy one? (Getting Started)](https://www.youtube.com/watch?v=Ny8anyG6u1E)
 - [WordPress for Raspberry Pi (2021) #Shorts](https://www.youtube.com/watch?v=paWQ0YUvEEQ)
 - [WordPress Setup for Raspberry Pi: How to install WordPress (2021)](https://www.youtube.com/watch?v=LCf-ZCI6mks)
 - [ESP32 - Getting Started #Shorts](https://www.youtube.com/watch?v=Fd4UP3tbyZc)
 - [Getting Started with the ESP32: Setup Arduino IDE  + Basic Flashing LED Script (How To) - Episode 0](https://www.youtube.com/watch?v=Z4mN9u93sWA)
-- [PiHole Setup: How to Block all Ads on your Network (Raspberry Pi Tutorial - Part 5)](https://www.youtube.com/watch?v=24bzwtsEbCg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
