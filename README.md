@@ -7,6 +7,7 @@
 - 💻 I've just launched my online Store & Blog: [Everybit Electronics][website]!
 - 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
 - 🌱 I’m currently studying a degree in "Digital & Technical Solutions"
+- 🔐 I’m also studying for the CompTIA Security+ Qualification
 
 
 ### Connect with me:
