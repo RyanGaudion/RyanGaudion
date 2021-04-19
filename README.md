@@ -21,7 +21,7 @@
 
 ### Languages and Technologies:
 
-[<img align="left" alt="C#" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][esp32playlist]
+[<img align="left" alt="C#" height="26px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />][esp32playlist]
 [<img align="left" alt="Xamarin" height="26px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />][esp32playlist]
 [<img align="left" alt="dot net core" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][esp32playlist]
 [<img align="left" alt="Arduino" height="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][esp32playlist]
