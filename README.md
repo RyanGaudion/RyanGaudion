@@ -44,11 +44,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To: Setup Arduino IDE for Raspberry Pi Pico (2021)](https://www.youtube.com/watch?v=VZnwHVvq5-k)
 - [Raspberry Pi Pico: In 60 Seconds (#Shorts)](https://www.youtube.com/watch?v=pwANgyonZ9s)
 - [Raspberry Pi Pico: 10 Things You Might Not Know](https://www.youtube.com/watch?v=itShsYThMUI)
 - [Raspberry Pi Pico First Impressions: Should you Buy one? (Getting Started)](https://www.youtube.com/watch?v=Ny8anyG6u1E)
 - [WordPress for Raspberry Pi (2021) #Shorts](https://www.youtube.com/watch?v=paWQ0YUvEEQ)
-- [WordPress Setup for Raspberry Pi: How to install WordPress (2021)](https://www.youtube.com/watch?v=LCf-ZCI6mks)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
