@@ -1,4 +1,4 @@
-### Hi, I'm Ryan Gaudion - Owner of [EveryBit Electronics][website]
+### Hi, I'm [Ryan Gaudion][linkedin] - Owner of [EveryBit Electronics][website]
 
 [![Website](https://img.shields.io/website?label=EverybitElectronics&style=for-the-badge&url=https%3A%2F%2Feverybitelectronics.co.uk)](https://everybitelectronics.co.uk)
 
@@ -7,7 +7,11 @@
 - 💻 I've just launched my online Store & Blog: [Everybit Electronics][website]!
 - 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
 - 🌱 I’m currently studying a degree in "Digital & Technical Solutions"
-- 🔐 I’m also studying for the CompTIA Security+ Qualification
+
+### Certifications & Accreditations:
+- 🔐 CompTIA Security+ SY0-601
+- ☁️ AWS Partner: Accreditation (Technical)
+- ☁️ AWS Partner: Cloud Economics Accreditation
 
 
 ### Connect with me:
