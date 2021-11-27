@@ -62,11 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Tutorial Part 4 – VNC Connect – Accessing your Pi Remotely from anywhere in the world](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-4-vnc-connect/)
-- [Raspberry Pi Tutorial Part 3 – LAMP Server – Installing MySQL Server + PHPMyAdmin](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-3-lamp-server/)
-- [Raspberry Pi Tutorial Part 2 – Web Server – Installing Apache WebServer + PHP + Setting up SFTP](https://www.everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-2-web-server/)
-- [3D Printer Error – Prints Reversed and mirrored](https://www.everybitelectronics.co.uk/blog/3d-printer-error-prints-reversed/)
-- [Raspberry Pi Tutorial Part 1 – Headless Setup – Installing Raspbian and Enabling SSH](https://www.everybitelectronics.co.uk/blog/raspberry-pi-part-1-headless-setup/)
+- [Raspberry Pi Tutorial Part 4 – VNC Connect – Accessing your Pi Remotely from anywhere in the world](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-4-vnc-connect/)
+- [Raspberry Pi Tutorial Part 3 – LAMP Server – Installing MySQL Server + PHPMyAdmin](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-3-lamp-server/)
+- [Raspberry Pi Tutorial Part 2 – Web Server – Installing Apache WebServer + PHP + Setting up SFTP](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-2-web-server/)
+- [3D Printer Error – Prints Reversed and mirrored](https://everybitelectronics.co.uk/blog/3d-printer-error-prints-reversed/)
+- [Raspberry Pi Tutorial Part 1 – Headless Setup – Installing Raspbian and Enabling SSH](https://everybitelectronics.co.uk/blog/raspberry-pi-part-1-headless-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://everybitelectronics.co.uk/blog)
