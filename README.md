@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gift Ideas under £5 for ... Programmers? #shorts](https://www.youtube.com/watch?v=Zoi7CXuXwzE)
 - [Raspberry Pi - What OS/Distro are you running? #RaspberryPi #Shorts](https://www.youtube.com/watch?v=Bn-iB4P9Iqo)
 - [What Raspberry Pi do you have? Let me know in the comments: #RaspberryPi #Shorts](https://www.youtube.com/watch?v=UVQhCypaKQY)
 - [Raspberry Pi: Identify your Model, RAM Size and OS/Distro &lpar;2021&rpar;](https://www.youtube.com/watch?v=fBUY_oPOtMI)
 - [Arduino IDE for Raspberry Pi Pico &lpar;In 60 Seconds&rpar; #Shorts](https://www.youtube.com/watch?v=6ew6Ag3XE4E)
-- [How To: Setup Arduino IDE for Raspberry Pi Pico &lpar;2021&rpar;](https://www.youtube.com/watch?v=VZnwHVvq5-k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
