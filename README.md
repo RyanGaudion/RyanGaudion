@@ -1,5 +1,9 @@
 ### Hi, I'm [Ryan Gaudion][linkedin] - Owner of [EveryBit Electronics][website]
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryangaudion)
+</br>
+</br>
 [![Website](https://img.shields.io/website?label=EverybitElectronics&style=for-the-badge&url=https%3A%2F%2Feverybitelectronics.co.uk)](https://everybitelectronics.co.uk)
 
 ## I'm a Christian, Student, Developer, and All-Round Computer Nerd!!
