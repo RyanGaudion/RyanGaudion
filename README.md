@@ -52,7 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Why Wordle Resets on 21st October](https://www.youtube.com/watch?v=zE61v96LMpI)
+- [Why Wordle will reset in 2083 Days? | Wordle - Behind the Code](https://www.youtube.com/watch?v=zE61v96LMpI)
 - [Gifts under £10 for Makers, Creators &amp; Software Developers #shorts](https://www.youtube.com/watch?v=TEH-xG15IQk)
 - [Gift Ideas under £5 for ... Programmers? #shorts](https://www.youtube.com/watch?v=Zoi7CXuXwzE)
 - [Raspberry Pi - What OS/Distro are you running? #RaspberryPi #Shorts](https://www.youtube.com/watch?v=Bn-iB4P9Iqo)
