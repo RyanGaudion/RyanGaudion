@@ -9,7 +9,7 @@
 ## I'm a Christian, Student, Developer, and All-Round Computer Nerd!!
 
 - 💻 I've just launched my Site (and Blog): [Gaudion.dev][website]!
-- 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
+- 📺 Uploading Tutorials and Reviews to my [Youtube Channel][youtube]
 - 🌱 Graduated with a first class degree in "BSc (Hons) Digital & Technology Solutions"
 
 ### Certifications & Accreditations:
@@ -22,7 +22,7 @@
 
 [<img align="left" alt="everybitelectronics.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -87,7 +87,7 @@
 
 [website]: https://www.gaudion.dev/
 [youtube]: https://www.youtube.com/channel/UCbxm4-qhyXWXYk4w5Tr1pkw
-[instagram]: https://instagram.com/everybitelectronics
+[twitter]: https://twitter.com/Ryan_Gaudion
 [linkedin]: https://uk.linkedin.com/in/ryan-gaudion-a2a95b175
 [raspberrypiplaylist]: https://www.youtube.com/watch?v=anQgEc13wus&list=PLzMQZEg71OYarL_ZKhxnP6oui8tvODa4R
 [esp32playlist]: https://www.youtube.com/watch?v=Z4mN9u93sWA&list=PLzMQZEg71OYY6BV9w1_Ti-kBOxE5J7syC
