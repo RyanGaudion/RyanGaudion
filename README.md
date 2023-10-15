@@ -66,11 +66,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineer Wordle](https://everybitelectronics.co.uk/blog/reverse-engineering-wordle/)
-- [Raspberry Pi Tutorial Part 4 – VNC Connect – Accessing your Pi Remotely from anywhere in the world](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-4-vnc-connect/)
-- [Raspberry Pi Tutorial Part 3 – LAMP Server – Installing MySQL Server + PHPMyAdmin](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-3-lamp-server/)
-- [Raspberry Pi Tutorial Part 2 – Web Server – Installing Apache WebServer + PHP + Setting up SFTP](https://everybitelectronics.co.uk/blog/raspberry-pi-tutorial-part-2-web-server/)
-- [3D Printer Error – Prints Reversed and mirrored](https://everybitelectronics.co.uk/blog/3d-printer-error-prints-reversed/)
+- [FreeTrade Crowdfunding 2023: Record Revenue despite Valuation Drop](https://gaudion.dev/blog/freetrade-meetup-june-2023)
+- [Freetrade Meetup: AI Portfolio Advisor, Mutual Funds + Proxy Voting](https://gaudion.dev/blog/freetrade-meetup-may-2023)
+- [MDX Syntax Highlighting in Next.js using Highlight.js](https://gaudion.dev/blog/mdx-syntax-highlighting)
+- [How to embed YouTube Videos in MDX Using Next.js](https://gaudion.dev/blog/mdx-youtube-embed)
+- [MDX Explained: The Ultimate Guide to Extended Markdown](https://gaudion.dev/blog/what-is-mdx)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://gaudion.dev/)
