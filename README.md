@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Wordle - Behind the Code](https://www.youtube.com/watch?v=zE61v96LMpI)
-- [Gifts under £10 for Makers, Creators &amp; Software Developers #shorts](https://www.youtube.com/watch?v=TEH-xG15IQk)
-- [Gift Ideas under £5 for ... Programmers? #shorts](https://www.youtube.com/watch?v=Zoi7CXuXwzE)
-- [Raspberry Pi - What OS/Distro are you running? #RaspberryPi #Shorts](https://www.youtube.com/watch?v=Bn-iB4P9Iqo)
-- [What Raspberry Pi do you have? Let me know in the comments: #RaspberryPi #Shorts](https://www.youtube.com/watch?v=UVQhCypaKQY)
+- [Google Analytics for Next.js 13: Consent Mode with GDPR Compliant Cookie Banner](https://www.youtube.com/watch?v=DJMTWuz2ksk)
+- [Simple 3 Steps UI Design Process &lpar;Using Figma&rpar; #shorts](https://www.youtube.com/watch?v=3E-KCa-s0nU)
+- [How to setup Carbon Language on Windows &lpar;or Linux&rpar;](https://www.youtube.com/watch?v=AaZUJUbXrQ8)
+- [The Notebook that Replaces Paper](https://www.youtube.com/watch?v=uNwogRZA-9g)
+- [Protect your Raspberry Pi: UFW Firewall Setup](https://www.youtube.com/watch?v=7FEyBQvO--Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
