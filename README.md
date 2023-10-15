@@ -86,8 +86,8 @@
 </details>
 
 [website]: https://www.gaudion.dev/
-[youtube]: https://www.youtube.com/channel/UCbxm4-qhyXWXYk4w5Tr1pkw
+[youtube]: https://www.youtube.com/@RyanGaudion
 [twitter]: https://twitter.com/Ryan_Gaudion
-[linkedin]: https://uk.linkedin.com/in/ryan-gaudion-a2a95b175
+[linkedin]: https://uk.linkedin.com/in/ryan-gaudion
 [raspberrypiplaylist]: https://www.youtube.com/watch?v=anQgEc13wus&list=PLzMQZEg71OYarL_ZKhxnP6oui8tvODa4R
 [esp32playlist]: https://www.youtube.com/watch?v=Z4mN9u93sWA&list=PLzMQZEg71OYY6BV9w1_Ti-kBOxE5J7syC
