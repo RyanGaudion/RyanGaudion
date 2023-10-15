@@ -1,4 +1,4 @@
-### Hi, I'm [Ryan Gaudion][linkedin] - Owner of [EveryBit Electronics][website]
+### Hi, I'm [Ryan Gaudion][linkedin] - Owner of [Gaudion.dev][website]
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryangaudion)
