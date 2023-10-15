@@ -10,7 +10,7 @@
 
 - 💻 I've just launched my Site (and Blog): [Gaudion.dev][website]!
 - 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
-- 🌱 I’m currently studying a degree in "Digital & Technical Solutions"
+- 🌱 Graduated with a first class degree in "BSc (Hons) Digital & Technology Solutions"
 
 ### Certifications & Accreditations:
 - 🔐 CompTIA Security+ SY0-601
