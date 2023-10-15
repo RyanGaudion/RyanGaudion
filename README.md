@@ -4,11 +4,11 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryangaudion)
 </br>
 </br>
-[![Website](https://img.shields.io/website?label=EverybitElectronics&style=for-the-badge&url=https%3A%2F%2Feverybitelectronics.co.uk)](https://everybitelectronics.co.uk)
+[![Website](https://img.shields.io/website?label=Gaudion.Dev&style=for-the-badge&url=https%3A%2F%2Fgaudion.dev)](https://gaudion.dev)
 
 ## I'm a Christian, Student, Developer, and All-Round Computer Nerd!!
 
-- 💻 I've just launched my online Store & Blog: [Everybit Electronics][website]!
+- 💻 I've just launched my Site (and Blog): [Gaudion.dev][website]!
 - 📺 Regularly Upload Tutorials and Reviews to my [Youtube Channel][youtube]
 - 🌱 I’m currently studying a degree in "Digital & Technical Solutions"
 
@@ -73,7 +73,7 @@
 - [3D Printer Error – Prints Reversed and mirrored](https://everybitelectronics.co.uk/blog/3d-printer-error-prints-reversed/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](http://everybitelectronics.co.uk/blog)
+➡️ [more blog posts...](https://gaudion.dev/)
 
 ---
 
@@ -85,7 +85,7 @@
 
 </details>
 
-[website]: https://www.everybitelectronics.co.uk/
+[website]: https://www.gaudion.dev/
 [youtube]: https://www.youtube.com/channel/UCbxm4-qhyXWXYk4w5Tr1pkw
 [instagram]: https://instagram.com/everybitelectronics
 [linkedin]: https://uk.linkedin.com/in/ryan-gaudion-a2a95b175
