@@ -66,11 +66,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Freetrade Acquired: 3 Lessons from Crowdfunding](https://gaudion.dev/blog/freetrade-sold-to-ig)
 - [What is Documentation Drift and How to Avoid It?](https://gaudion.dev/blog/documentation-drift)
 - [FreeTrade Crowdfunding 2023: Record Revenue despite Valuation Drop](https://gaudion.dev/blog/freetrade-meetup-june-2023)
 - [Freetrade Meetup: AI Portfolio Advisor, Mutual Funds + Proxy Voting](https://gaudion.dev/blog/freetrade-meetup-may-2023)
 - [MDX Syntax Highlighting in Next.js using Highlight.js](https://gaudion.dev/blog/mdx-syntax-highlighting)
-- [How to embed YouTube Videos in MDX Using Next.js](https://gaudion.dev/blog/mdx-youtube-embed)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://gaudion.dev/)
