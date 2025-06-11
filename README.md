@@ -54,9 +54,9 @@
 <!-- YOUTUBE:START -->
 - [Coding a Budgeting App - Supabase &amp; Mudblazor &lpar;Devlog #1&rpar;](https://www.youtube.com/watch?v=20ScgiHxTyQ)
 - [Google Analytics for Next.js 13: Consent Mode with GDPR Compliant Cookie Banner](https://www.youtube.com/watch?v=DJMTWuz2ksk)
-- [Simple 3 Steps UI Design Process &lpar;Using Figma&rpar; #shorts](https://www.youtube.com/watch?v=3E-KCa-s0nU)
+- [Simple 3 Steps UI Design Process &lpar;Using Figma&rpar; #shorts](https://www.youtube.com/shorts/3E-KCa-s0nU)
 - [How to setup Carbon Language on Windows &lpar;or Linux&rpar;](https://www.youtube.com/watch?v=AaZUJUbXrQ8)
-- [The Notebook that Replaces Paper](https://www.youtube.com/watch?v=uNwogRZA-9g)
+- [The Notebook that Replaces Paper](https://www.youtube.com/shorts/uNwogRZA-9g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
